@@ -86,7 +86,7 @@ $$ R = \frac{\text{potential_profit}}{\text{potential_loss}} $$
     Your potential profit is calculated as:<br>
     $\begin{aligned} 
         \text{potential_profit} &= (\text{potential_price} - \text{cost_per_unit}) * \frac{\text{investment}}{\text{cost_per_unit}} \\
-                                &= (15 - 10) * \frac{100}{15}\\
+                                &= (15 - 10) * \frac{100}{10}\\
                                 &= 33.33
     \end{aligned}$<br>
     Since the price might go to $0, the $100 dolars invested could turn into 0. We can compute the Risk Reward Ratio as follows:<br>
